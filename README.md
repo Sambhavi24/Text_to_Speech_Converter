@@ -1,1 +1,2 @@
 # Text_to_Speech_Converter
+Text to Speech Converter is a very powerful tool that can convert written text into spoken audio.This project has various features and functionalities, such as allowing the user to input text from different sources, such as typing, copying and pasting. It also provide options for the user to adjust the speech parameters, such as speed and voice type (male or female).It can help people with reading difficulties or visual impairments to access written information.
